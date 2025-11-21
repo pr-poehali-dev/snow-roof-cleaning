@@ -64,7 +64,7 @@ const Index = () => {
         <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Icon name="Snowflake" className="text-primary" size={32} />
-            <span className="text-xl font-bold text-secondary">СнегоЧист</span>
+            <span className="text-xl font-bold text-secondary">СнегоЧист СПБ</span>
           </div>
           <div className="hidden md:flex gap-8">
             <a href="#services" className="hover:text-primary transition-colors">
@@ -260,7 +260,7 @@ const Index = () => {
         <div className="container mx-auto text-center">
           <div className="flex items-center justify-center gap-2 mb-4">
             <Icon name="Snowflake" size={24} />
-            <span className="text-xl font-bold">СнегоЧист</span>
+            <span className="text-xl font-bold">СнегоЧист СПБ</span>
           </div>
           <p className="text-white/80">
             Профессиональная очистка крыш от снега и наледи
